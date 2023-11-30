@@ -58,6 +58,13 @@ Colombia <- read.socrata("https://www.datos.gov.co/resource/gt2j-8ykr.json", app
 
 ```
 
+<div class="content-box-gray">
+### **Nota**
+
+Este proceso tarda unos minutos
+
+</div>
+
 <br/><br/>
 
 ## <span style="color:#034a94"> **Paso 3 :**</span>
